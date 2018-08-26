@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="scw-web:war">
+    <output-path>$PROJECT_DIR$/../scw/scw-web/target</output-path>
+    <root id="archive" name="scw-web-1.0.0.war">
+      <element id="artifact" artifact-name="scw-web:war exploded" />
+    </root>
+  </artifact>
+</component>
